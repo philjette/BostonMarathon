@@ -1,0 +1,13 @@
+name: BostonMarathon
+title: BostonMarathon
+username:
+account: philjette
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 262837
+bundleId: 1194892
+url: https://philjette.shinyapps.io/BostonMarathon/
+when: 1516996614.84904
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|BostonMarathonAnalysis.R|BostonMarathonFinishers.html|BostonMarathonFinishers.Rmd|marathon_results_2015.csv|marathon_results_2016.csv|marathon_results_2017.csv|RPresent_Boston-rpubs.html|RPresent_Boston.md|RPresent_Boston.Rpres|RPresent_Boston-figure/unnamed-chunk-2-1.png|RPresent_Boston-figure/unnamed-chunk-4-1.png
